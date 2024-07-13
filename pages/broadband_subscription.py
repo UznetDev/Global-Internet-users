@@ -2,6 +2,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 from loader import df
 
+
 def broadband_subscription():
     st.title('Average Broadband Subscription Over Selected Years')
 

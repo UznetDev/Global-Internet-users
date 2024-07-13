@@ -2,6 +2,7 @@ import streamlit as st
 import seaborn as sns
 from loader import df
 
+
 def internet_users_timeline():
     st.set_option('deprecation.showPyplotGlobalUse', False)
     st.title('Timeline of Internet Users Adoption')

@@ -23,10 +23,7 @@ def internet_users_map():
 
     st.plotly_chart(fig)
 
-    st.write("""
-        ### Analysis
-        This choropleth map shows the number of internet users per country for the year 2020.
-    """)
+    st.write("""### Analysis\nThis choropleth map shows the number of internet users per country for the year 2020.""")
 
 if __name__ == '__main__':
     internet_users_map()

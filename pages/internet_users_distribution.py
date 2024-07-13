@@ -2,6 +2,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 from loader import df
 
+
 def internet_users_distribution():
     st.title('Internet Users(%) Distribution')
 
