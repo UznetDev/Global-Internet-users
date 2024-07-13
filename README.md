@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions, please contact:
 - Email: uznetdev@example.com
 - GitHub Issues: [Issues section](https://github.com/UznetDev/Global-Internet-users/issues)
-- GitHub Profile: [Issues section](https://github.com/UznetDev/)
+- GitHub Profile: [UznetDev](https://github.com/UznetDev/)
 - Telegram: [UZNet_Dev](https://t.me/UZNet_Dev)
 - Linkedin: [Abdurahmon Niyozaliev](https://www.linkedin.com/in/abdurakhmon-niyozaliyev-%F0%9F%87%B5%F0%9F%87%B8-66545222a/)
 
