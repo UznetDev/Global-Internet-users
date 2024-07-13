@@ -2,6 +2,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 from loader import df
 
+
 def cellular_vs_internet():
     st.title('Cellular Subscription vs Internet Users(%)')
 
