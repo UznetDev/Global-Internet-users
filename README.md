@@ -51,6 +51,8 @@ Run the main application:
 streamlit run app.py
 ```
 
+#### [Adres of project](https://uznetdev-global-internet-users-app-js8fyj.streamlit.app/)
+
 ## <i>This project uses the following technologies and libraries:</i>
 - Python
 - Pandas
