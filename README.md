@@ -1,5 +1,6 @@
 # Global Internet Users
 
+
 This repository contains a project that analyzes global internet user data. The project includes scripts and tools to visualize and interpret various aspects of internet usage across the world.
 
 ## <i>Project Structure</i>
